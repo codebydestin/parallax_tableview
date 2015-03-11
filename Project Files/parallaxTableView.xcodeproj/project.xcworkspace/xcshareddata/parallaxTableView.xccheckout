@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E18179B-2A10-4CB3-A1AF-32539220502E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>parallaxTableView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6710DB7ED3A03CBA1832C6DC4FAFBD16E8D54131</key>
+		<string>https://github.com/2squared/parallax_tableview</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Project Files/parallaxTableView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6710DB7ED3A03CBA1832C6DC4FAFBD16E8D54131</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/2squared/parallax_tableview</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6710DB7ED3A03CBA1832C6DC4FAFBD16E8D54131</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6710DB7ED3A03CBA1832C6DC4FAFBD16E8D54131</string>
+			<key>IDESourceControlWCCName</key>
+			<string>parallaxTableView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
