@@ -8,11 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		B86B32141AAF4ACA0093A844 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B86B32131AAF4ACA0093A844 /* AppDelegate.swift */; };
-		B86B32161AAF4ACA0093A844 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B86B32151AAF4ACA0093A844 /* ViewController.swift */; };
+		B86B32161AAF4ACA0093A844 /* ParallaxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B86B32151AAF4ACA0093A844 /* ParallaxViewController.swift */; };
 		B86B32191AAF4ACA0093A844 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B86B32171AAF4ACA0093A844 /* Main.storyboard */; };
 		B86B321B1AAF4ACA0093A844 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B86B321A1AAF4ACA0093A844 /* Images.xcassets */; };
 		B86B321E1AAF4ACA0093A844 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B86B321C1AAF4ACA0093A844 /* LaunchScreen.xib */; };
 		B86B322A1AAF4ACA0093A844 /* parallaxTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B86B32291AAF4ACA0093A844 /* parallaxTableViewTests.swift */; };
+		B86B32341AAF4C470093A844 /* parallaxCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B86B32331AAF4C470093A844 /* parallaxCell.swift */; };
+		B8DFA6881AAFCD1400AE7381 /* cover5.png in Resources */ = {isa = PBXBuildFile; fileRef = B8DFA6841AAFCD1400AE7381 /* cover5.png */; };
+		B8DFA6891AAFCD1400AE7381 /* cover6.png in Resources */ = {isa = PBXBuildFile; fileRef = B8DFA6851AAFCD1400AE7381 /* cover6.png */; };
+		B8DFA68A1AAFCD1400AE7381 /* cover7.png in Resources */ = {isa = PBXBuildFile; fileRef = B8DFA6861AAFCD1400AE7381 /* cover7.png */; };
+		B8DFA68B1AAFCD1400AE7381 /* cover8.png in Resources */ = {isa = PBXBuildFile; fileRef = B8DFA6871AAFCD1400AE7381 /* cover8.png */; };
+		B8F330761AAFC69900FC44B9 /* cover1.png in Resources */ = {isa = PBXBuildFile; fileRef = B8F330711AAFC69900FC44B9 /* cover1.png */; };
+		B8F330771AAFC69900FC44B9 /* cover2.png in Resources */ = {isa = PBXBuildFile; fileRef = B8F330721AAFC69900FC44B9 /* cover2.png */; };
+		B8F330781AAFC69900FC44B9 /* cover3.png in Resources */ = {isa = PBXBuildFile; fileRef = B8F330731AAFC69900FC44B9 /* cover3.png */; };
+		B8F330791AAFC69900FC44B9 /* cover4.png in Resources */ = {isa = PBXBuildFile; fileRef = B8F330741AAFC69900FC44B9 /* cover4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,13 +38,22 @@
 		B86B320E1AAF4ACA0093A844 /* parallaxTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = parallaxTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B86B32121AAF4ACA0093A844 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B86B32131AAF4ACA0093A844 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B86B32151AAF4ACA0093A844 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B86B32151AAF4ACA0093A844 /* ParallaxViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallaxViewController.swift; sourceTree = "<group>"; };
 		B86B32181AAF4ACA0093A844 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B86B321A1AAF4ACA0093A844 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B86B321D1AAF4ACA0093A844 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		B86B32231AAF4ACA0093A844 /* parallaxTableViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = parallaxTableViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B86B32281AAF4ACA0093A844 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B86B32291AAF4ACA0093A844 /* parallaxTableViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parallaxTableViewTests.swift; sourceTree = "<group>"; };
+		B86B32331AAF4C470093A844 /* parallaxCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = parallaxCell.swift; sourceTree = "<group>"; };
+		B8DFA6841AAFCD1400AE7381 /* cover5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover5.png; sourceTree = "<group>"; };
+		B8DFA6851AAFCD1400AE7381 /* cover6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover6.png; sourceTree = "<group>"; };
+		B8DFA6861AAFCD1400AE7381 /* cover7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover7.png; sourceTree = "<group>"; };
+		B8DFA6871AAFCD1400AE7381 /* cover8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover8.png; sourceTree = "<group>"; };
+		B8F330711AAFC69900FC44B9 /* cover1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover1.png; sourceTree = "<group>"; };
+		B8F330721AAFC69900FC44B9 /* cover2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover2.png; sourceTree = "<group>"; };
+		B8F330731AAFC69900FC44B9 /* cover3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover3.png; sourceTree = "<group>"; };
+		B8F330741AAFC69900FC44B9 /* cover4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,8 +96,10 @@
 			isa = PBXGroup;
 			children = (
 				B86B32131AAF4ACA0093A844 /* AppDelegate.swift */,
-				B86B32151AAF4ACA0093A844 /* ViewController.swift */,
+				B86B32151AAF4ACA0093A844 /* ParallaxViewController.swift */,
 				B86B32171AAF4ACA0093A844 /* Main.storyboard */,
+				B86B32331AAF4C470093A844 /* parallaxCell.swift */,
+				B86B323F1AAF55F60093A844 /* Images */,
 				B86B321A1AAF4ACA0093A844 /* Images.xcassets */,
 				B86B321C1AAF4ACA0093A844 /* LaunchScreen.xib */,
 				B86B32111AAF4ACA0093A844 /* Supporting Files */,
@@ -110,6 +130,21 @@
 				B86B32281AAF4ACA0093A844 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B86B323F1AAF55F60093A844 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				B8F330711AAFC69900FC44B9 /* cover1.png */,
+				B8F330721AAFC69900FC44B9 /* cover2.png */,
+				B8F330731AAFC69900FC44B9 /* cover3.png */,
+				B8F330741AAFC69900FC44B9 /* cover4.png */,
+				B8DFA6841AAFCD1400AE7381 /* cover5.png */,
+				B8DFA6851AAFCD1400AE7381 /* cover6.png */,
+				B8DFA6861AAFCD1400AE7381 /* cover7.png */,
+				B8DFA6871AAFCD1400AE7381 /* cover8.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,9 +227,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8F330781AAFC69900FC44B9 /* cover3.png in Resources */,
+				B8DFA6881AAFCD1400AE7381 /* cover5.png in Resources */,
 				B86B32191AAF4ACA0093A844 /* Main.storyboard in Resources */,
+				B8F330771AAFC69900FC44B9 /* cover2.png in Resources */,
+				B8F330791AAFC69900FC44B9 /* cover4.png in Resources */,
 				B86B321E1AAF4ACA0093A844 /* LaunchScreen.xib in Resources */,
+				B8DFA6891AAFCD1400AE7381 /* cover6.png in Resources */,
 				B86B321B1AAF4ACA0093A844 /* Images.xcassets in Resources */,
+				B8DFA68B1AAFCD1400AE7381 /* cover8.png in Resources */,
+				B8F330761AAFC69900FC44B9 /* cover1.png in Resources */,
+				B8DFA68A1AAFCD1400AE7381 /* cover7.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,7 +255,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B86B32161AAF4ACA0093A844 /* ViewController.swift in Sources */,
+				B86B32341AAF4C470093A844 /* parallaxCell.swift in Sources */,
+				B86B32161AAF4ACA0093A844 /* ParallaxViewController.swift in Sources */,
 				B86B32141AAF4ACA0093A844 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -405,6 +449,7 @@
 				B86B322F1AAF4ACA0093A844 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B86B32301AAF4ACA0093A844 /* Build configuration list for PBXNativeTarget "parallaxTableViewTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +458,7 @@
 				B86B32321AAF4ACA0093A844 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
